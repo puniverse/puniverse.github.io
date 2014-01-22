@@ -1,0 +1,4 @@
+pygments: false
+lsi: false
+safe: true
+baseurl: /
